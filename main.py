@@ -39,15 +39,7 @@ while run_again == True:
                 print(f"\nPlayer ({choice_dict[player_choice]}) : ({choice_dict[cpu_choice]}) CPU")
                 print("\nRock smashes Scissors! CPU wins!")
 
-        # Check if user wants to play again.
-        # Na who send me? I hope dem no mark me down.
-        # Mentor abeg, na God I take beg you.
-        play_again = input("\nWould you like to play another session? [\"Yes\" or \"No\"]\n\n")
-        if play_again.lower() == "yes":
-            run_again == True
-        else:
-            print("\nBye, thanks for playing!")
-            break
+        break
     else:
         print("\nInvalid input. Please try again.")
         continue
