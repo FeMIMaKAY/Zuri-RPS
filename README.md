@@ -1,4 +1,4 @@
-# Zuri-RPS
+# Zuri-Rock Paper Scissors Game.
 
 This repository contains a Rock Paper Scissors game task I did at ZUri Internship, week 3 to be precise.
 
